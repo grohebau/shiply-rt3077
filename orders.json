@@ -1,0 +1,47 @@
+{
+  "S36091": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Jens Plückhahn, Pestalozzistraße 12, 27474 Cuxhaven, Deutschland",
+    "receiver": "Johnny Pedersen, Moellegade 8, 6690 Goerding, Dänemark",
+    "price": "9.900 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: V-Rod<br>Fahrgestelnummer: 5HD1HAZ116K809994<br>Erstzulassung: 14/04/2006<br>KM laut Vorbesitzer: 32.950 km<br>Leistung: 86 kW<br>Hubraum: 1131 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Johnny Pedersen<br>Moellegade 8<br>6690 Goerding<br>Dänemark<br>Telefon: +45 601 76582",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "06-10-2025",
+    "deliveryDate": "10-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
