@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Moellegade 8",
+      "postal_code": "6690",
+      "city": "Goerding",
+      "country": "Dänemark",
+      "lat": "55.46941426029694",
+      "lng": "8.801384939566583"
     }
   }
 }
